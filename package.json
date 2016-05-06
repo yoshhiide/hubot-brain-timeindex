@@ -1,0 +1,29 @@
+{
+  "name": "hubot-brain-timeindex",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoshhiide/hubot-brain-timeindex.git"
+  },
+  "keywords": [
+    "hubot",
+    "redis",
+    "index",
+    "search"
+  ],
+  "author": "Yoshihide Nabeyama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoshhiide/hubot-brain-timeindex/issues"
+  },
+  "homepage": "https://github.com/yoshhiide/hubot-brain-timeindex#readme",
+  "dependencies": {
+    "lodash": "^4.11.2",
+    "moment": "^2.13.0"
+  }
+}
